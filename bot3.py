@@ -1,3 +1,6 @@
+import os
+os.system('pip install telebot')
+os.system('requests')
 import telebot,os
 import re,json
 import requests
