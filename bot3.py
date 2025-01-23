@@ -1,6 +1,7 @@
 import os
 os.system('pip install telebot')
-os.system('requests')
+os.system('pip install requests')
+os.system('pip install bs4')
 import telebot,os
 import re,json
 import requests
