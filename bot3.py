@@ -5,6 +5,7 @@ os.system('pip install bs4')
 os.system('pip install requests')
 os.system('pip install user_agent')
 os.system('pip install faker')
+os.system('pip install pycountry')
 import telebot,os
 import re,json
 import requests
